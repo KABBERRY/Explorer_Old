@@ -1,4 +1,4 @@
-doctype html
+pe html
 html
   head
     title= settings.title
